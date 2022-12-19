@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaDoKaLiF
-- 👀 I’m interested in NLP
+- 👀 I’m interested in DA
 - 🌱 I’m currently learning Libraray& information science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
