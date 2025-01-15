@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://render.gitanimals.org/farms/{MaDoKaLiF}"/>
 </a>
 
-- 👋 Hi, I’m @MaDoKaLiF
 - 👀 I’m interested in LLM reasoning specially test-time scaling
 - 🌱 I’m currently learning applied statistics 
 - 📫 How to reach me gudwls5789@yonsei.ac.kr
